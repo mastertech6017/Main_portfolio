@@ -1,3 +1,98 @@
 .roboto{
 	font-family: 'Roboto Slab', serif;
 }
+    
+    .bthickness{
+      border-width: 3px !important;
+      width: 205px;
+      padding: 2px;
+
+    }
+    .container h1{
+      font-weight: bolder;
+
+    }
+    .container h3{
+      font-weight: bolder;
+    }
+     .navbar{
+
+     }
+     .poppins{
+      font-family: 'Poppins', sans-serif;
+
+     }
+     .oranien{
+     font-family: 'Oranienbaum', serif;
+     font-size: 1.4rem;
+     }
+     .para{
+      font-size: 1.2rem;
+     }
+     
+     html{
+      scroll-behavior: smooth;
+     }
+     .border{
+      border-width: 2px !important;
+     }
+     .edu dl dt{
+      font-family: 'Oranienbaum',serif;
+      font-size: 1.5rem;
+     }
+      .edu dl dd{
+      font-family: 'Oranienbaum',serif;
+      font-size: 1.2rem;
+     }
+     .skills dl dt{
+      font-family: 'Oranienbaum',serif;
+      font-size: 1.5rem;
+     }
+      .skills dl dd{
+      font-family: 'Oranienbaum',serif;
+      font-size: 1.2rem;
+     }
+
+        .experience dl dt{
+      font-family: 'Oranienbaum',serif;
+      font-size: 1.5rem;
+     }
+      .experience dl dd{
+      font-family: 'Oranienbaum',serif;
+      font-size: 1.2rem;
+     }
+
+
+     .edu{
+      background-color: orange;
+
+     }
+     .container-fluid{
+      padding: 0px;
+      margin: 0px;
+     }
+     textarea{
+      height: 150px;
+      width: 400px;
+      padding: 2px;
+
+     }
+     form label{
+      font-family: "Oranienbaum",sans-serif;
+     }
+     form input{
+      width: 400px;
+      height: 50px;
+      font-size: 1.2rem;
+      font-family: 'Oranienbaum',sans-serif;
+     }
+     form{
+      width: 400px;
+      margin: auto;
+     }
+     form textarea{
+      font-family: 'Oranienbaum',sans-serif;
+     }
+     .sub-btn{
+      width: 400px;
+     }
